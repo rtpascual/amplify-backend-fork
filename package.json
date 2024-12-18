@@ -96,7 +96,7 @@
     "semver": "^7.5.4",
     "tsx": "^4.6.1",
     "typedoc": "^0.25.3",
-    "typescript": "~5.2.0",
+    "typescript": "~5.7.2",
     "verdaccio": "^6.0.1"
   },
   "workspaces": [
