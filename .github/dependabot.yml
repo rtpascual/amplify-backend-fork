@@ -11,4 +11,5 @@ updates:
       - '**/*'
     schedule:
       # Runs every Monday
+      # test to update dependabot.yml
       interval: 'weekly'
