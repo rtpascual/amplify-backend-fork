@@ -11,5 +11,6 @@ updates:
       - '**/*'
     schedule:
       # Runs every Monday
-      # test to update dependabot.yml
       interval: 'weekly'
+    # Update if new version is outside of version range specified in package.json
+    versioning-strategy: increase-if-necessary
