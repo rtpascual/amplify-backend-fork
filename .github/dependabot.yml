@@ -13,6 +13,7 @@ updates:
       # Runs every Monday
       interval: 'weekly'
     # Update package.json files if new version is outside of version range specified there. Otherwise lock file only.
+    # test so dependabot runs again after adding tags
     versioning-strategy: increase-if-necessary
     labels:
       - "dependency"
