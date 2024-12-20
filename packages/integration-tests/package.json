@@ -28,7 +28,7 @@
     "@aws-sdk/client-sqs": "^3.616.0",
     "@aws-sdk/client-sts": "^3.624.0",
     "@aws-sdk/credential-providers": "^3.624.0",
-    "@smithy/shared-ini-file-loader": "^2.2.5",
+    "@smithy/shared-ini-file-loader": "^3.1.12",
     "@types/lodash.ismatch": "^4.4.9",
     "@zip.js/zip.js": "^2.7.52",
     "aws-amplify": "^6.0.16",
